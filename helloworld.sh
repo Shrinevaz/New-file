@@ -1,6 +1,8 @@
 #!/bin/bash
  
 echo  "helloworld"
+DATE=$(date)
+echo  "this command ececuted on : $DATE"
 PERSON1=Ramesh
 PERSON2=Suresh
 
