@@ -1,0 +1,7 @@
+#!/bin/bash
+
+# ADDITION OF TWO NUNBERS
+NUMBER1=$1
+NUMBER2=$2
+
+echo " Sum of these $NUMBER1 + $NUMBER2 = $(NUMBER1 + NUMBER2)"
