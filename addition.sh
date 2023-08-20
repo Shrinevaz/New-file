@@ -6,3 +6,7 @@ NUMBER2=$2
 
 sum=$((NUMBER1+NUMBER2))
 echo " addiiotn: $sum"
+
+PERSONS=("RAMESH" "SURESH" "VIGNESH")
+
+echo " FIRST PERSON : ${PERSONS[0]}"
