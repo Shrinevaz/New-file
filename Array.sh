@@ -1,0 +1,5 @@
+#!/bin/bash
+
+PERSONS=("RAMESH" "SURESH" (VIGNESH))
+
+ECHO " FIRST PERSON : $(PERSONS(0))"
