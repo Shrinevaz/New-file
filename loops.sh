@@ -2,5 +2,10 @@
 
 for i in { 1...100}
 do 
-echi $1
+echo $i
+done
+
+for i in 1 2 3 4 5
+do
+   echo "Welcome $i times"
 done
